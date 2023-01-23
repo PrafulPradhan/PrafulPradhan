@@ -1,7 +1,5 @@
 - 👋 Yo, I’m PCAPS/PrafulPradhan
 - 👀 I’m interested in solving algorithms, eating sweets and physics
-- 🌱 I’m currently learning bunch of coding languages 
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 Email: praful0124@gmail.com
 
 <!---
